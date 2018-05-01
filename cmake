@@ -1,1 +1,1 @@
-my cmake file 
+my cmake file .bit

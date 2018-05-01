@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/StockSpan.dir/apps/a1_stock_span.cpp.o  -o StockSpan 

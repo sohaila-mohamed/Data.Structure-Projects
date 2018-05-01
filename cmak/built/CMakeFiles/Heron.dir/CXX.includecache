@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libarary/mathematics.hpp
+cmath
+-
+
+/home/sohila/cmak/apps/heron.cpp
+mathematics.hpp
+/home/sohila/cmak/apps/mathematics.hpp
+iostream
+-
+algorithm
+-
+

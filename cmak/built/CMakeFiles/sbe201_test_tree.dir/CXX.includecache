@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libarary/bst.hpp
+iostream
+-
+string
+-
+queue
+-
+
+/home/sohila/cmak/apps/test_tree.cpp
+iostream
+-
+bst.hpp
+/home/sohila/cmak/apps/bst.hpp
+

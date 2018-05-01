@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libarary/bst.hpp
+iostream
+-
+string
+-
+queue
+-
+
+../libarary/helpers.hpp
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+algorithm
+-
+cctype
+-
+
+../libarary/set.hpp
+bst.hpp
+../libarary/bst.hpp
+
+/home/sohila/cmak/apps/unique_words.cpp
+set.hpp
+/home/sohila/cmak/apps/set.hpp
+helpers.hpp
+/home/sohila/cmak/apps/helpers.hpp
+

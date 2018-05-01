@@ -1,0 +1,13 @@
+/home/sohila/cmak/built/CMakeFiles/edit_cache.dir
+/home/sohila/cmak/built/CMakeFiles/rebuild_cache.dir
+/home/sohila/cmak/built/CMakeFiles/Heron.dir
+/home/sohila/cmak/built/CMakeFiles/sbe201_unique_words.dir
+/home/sohila/cmak/built/CMakeFiles/sbe201_test_tree.dir
+/home/sohila/cmak/built/CMakeFiles/AwesomeApplication.dir
+/home/sohila/cmak/built/CMakeFiles/StockSpan.dir
+/home/sohila/cmak/built/CMakeFiles/AnalyzeDNA.dir
+/home/sohila/cmak/built/CMakeFiles/BalancedParentheses.dir
+/home/sohila/cmak/built/CMakeFiles/sbe201_count_words.dir
+/home/sohila/cmak/built/CMakeFiles/sbe201_count_dna.dir
+/home/sohila/cmak/built/CMakeFiles/Calculator.dir
+/home/sohila/cmak/built/CMakeFiles/AnalyzeECG.dir
